@@ -1,0 +1,57 @@
+
+body{
+background-image: url(image1.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 200px;
+/*overflow: hidden; */
+
+}
+
+.in1{
+  margin-top: 40px;
+   border-radius: 50%;
+   
+}
+.text1{
+  text-align:center;
+color: rgb(41, 49, 49);}
+.text2{
+  text-align:center;
+color: rgb(121, 133, 133);
+
+}
+.text1:hover{
+color: black;
+text-decoration: underline;
+}
+
+.container-fluid .inj{
+  padding-right: 20px;
+  padding-left: 50px;
+  margin-right: 50px;
+  margin-left: auto;
+  
+}
+.p1{
+  margin-left:150px;
+}
+.container{
+  margin-top:250px;
+}
+.row{
+  /*margin:20px;*/
+ 
+    margin-right: -15px;
+    margin-left: -15px;
+ 
+}
+.col-lg-offset-6 {
+  margin-left: 50%;
+}
+.col-lg-offset-1{
+  margin-left:14%;
+}
+.col-lg-offset-2{
+  margin-left:5%;
+}
